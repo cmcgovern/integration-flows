@@ -21,6 +21,6 @@ jobs:
     - name: Deploy Stage
       uses: fjogeleit/http-request-action@master
       with:
-        url: 'https://9b60245b1997e9ff7794bb3028e9387617652443.cloudapp-enterprise.appcelerator.com/api/cmcgovern/iPaaS-DevOps/1.0.0/promote?flowId=55167'
+        url: 'https://9b60245b1997e9ff7794bb3028e9387617652443.cloudapp-enterprise.appcelerator.com/api/cmcgovern/iPaaS-DevOps/1.0.0/promote?flowId=54241'
         method: 'PUT'
         username: sQbcQiqi8nrC3oD7dDDdmMXtaEbbNyH5

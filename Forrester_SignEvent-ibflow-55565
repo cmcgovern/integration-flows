@@ -1,0 +1,1 @@
+{"id":55565,"name":"Forrester_SignEvent","userId":55170,"accountId":42187,"createdDate":"2021-06-22T15:41:29Z","steps":[],"triggers":[{"id":47739,"onSuccess":[],"onFailure":[],"type":"manual","async":true,"active":true,"name":"trigger","properties":{}}],"engine":"v3","active":true,"debugLoggingEnabled":false,"singleThreaded":false,"configuration":[]}
